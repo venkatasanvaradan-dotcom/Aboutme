@@ -1,8 +1,8 @@
-# Aboutme
 Varadan Venkatesan  
 Data Analyst | Business Analyst | Insights Analyst | Business Intelligence Analyst   
-Email: venkatasanvaradan@gmail.com
-Ph: 0871998830
+Email: venkatasanvaradan@gmail.com | Ph: 0871998830
+
+# Aboutme
 
 Hi, I’m Varadan Venkatesan — a data-driven professional passionate about transforming raw data into actionable insights that fuel smarter business decisions and measurable results.
 
